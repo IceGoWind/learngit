@@ -1,3 +1,2 @@
-这是一个测试
-关于Git的一个测试
-改动发生
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
